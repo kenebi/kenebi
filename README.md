@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @kenebi
-- 👀 I’m interested in e-commerce right now.
-- 🌱 I’m currently learning how shopify works.
-- 💞️ I’m looking to collaborate on anyone who can help me learn more about shopify and e-commerce.
 - 📫 You can reach me @ebilanekenneth@gmail.com
 
 <!---
