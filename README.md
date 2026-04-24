@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @kenebi
-- 📫 You can reach me @ebilanekenneth@gmail.com
+- 👋 Hi, I’m Kenneth
 
 <!---
 kenebi/kenebi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
